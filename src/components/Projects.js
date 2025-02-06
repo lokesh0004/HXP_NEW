@@ -9,7 +9,7 @@ import projImg6 from "../assets/img/WhatsApp Image 2025-02-06 at 00.09.43_10a20e
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
-import { Link, useHref } from "react-router-dom";
+
 
 export const Projects = () => {
 
